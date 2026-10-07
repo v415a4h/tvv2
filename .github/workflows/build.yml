@@ -1,0 +1,11 @@
+IPTVGo-v2/
+  build.gradle.kts
+  settings.gradle.kts
+  gradle.properties
+  src/main/AndroidManifest.xml
+  src/main/java/com/example/iptvgo/MainActivity.kt, M3uParser.kt
+  src/main/res/drawable/ic_launcher_foreground.xml
+  src/main/res/mipmap/ic_launcher.xml
+  src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+  src/main/res/values/colors.xml, themes.xml
+  src/main/res/layout/…  and  menu/…
